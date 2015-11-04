@@ -1,6 +1,23 @@
 # ngAutocomplete
 AngularJS directive for autocomplete input box
 
+### Installation
+
+Terminal
+>```
+bower install ng-simple-autocomplete
+```
+
+bower.json
+>```json
+...
+"dependencies": {
+	"ng-simple-autocomplete": "1.0.0",
+	...
+}
+...
+```
+
 ### Prepare
 
 Add the files **ngAutocomplete.js** and **ngAutocomplete.css** to your html file. This files are located inside **dist** folder into package folder.
