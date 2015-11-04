@@ -1,0 +1,32 @@
+{
+  "name": "ng-simple-autocomplete",
+  "version": "1.0.0",
+  "authors": [
+    "Raúl Salvador <rsalvador@wat.mx>"
+  ],
+  "description": "AngularJS directive for autocomplete input box",
+  "main": [
+    "dist/ngAutocomplete.js",
+    "dist/ngAutocomplete.css"
+  ],
+  "keywords": [
+    "angularjs",
+    "autocomplete",
+    "input",
+    "box",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "http://wat.mx",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4",
+    "bootstrap": "~3.0"
+  }
+}

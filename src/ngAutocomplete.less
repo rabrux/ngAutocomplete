@@ -1,0 +1,19 @@
+@white: rgba(255, 255, 255, 1);
+@whiteless: #edf0f0;
+@border: 1px solid @whiteless - 20;
+
+.autocomplete {
+	position: relative;
+	ul {
+		background: @white;
+		position: absolute;
+		z-index: 1;
+		width: 100%;
+		list-style: none;
+		padding: 0;
+		border: @border;
+		li {
+			padding: 3px;
+		}
+	}
+}
