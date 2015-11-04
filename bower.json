@@ -17,7 +17,7 @@
     "directive"
   ],
   "license": "MIT",
-  "homepage": "http://wat.mx",
+  "homepage": "http://github.com/rabrux/ngAutocomplete",
   "ignore": [
     "**/.*",
     "node_modules",
