@@ -12,8 +12,7 @@ bower.json
 >```json
 ...
 "dependencies": {
-	"ng-simple-autocomplete": "1.0.0",
-	...
+	"ng-simple-autocomplete": "1.0.0"
 }
 ...
 ```
