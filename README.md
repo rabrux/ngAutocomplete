@@ -22,3 +22,7 @@ Note: The path to **bower_components** can be diferent because .bowerrc file
 ```
 
 Where **yourModel** is a variable that you need to save the selected item in autocomplete directive and **array** is an array with the values than it can be selected from the autocomplete directive.
+
+### Credits
+
+This project has been created by [Raúl Salvador Andrade](http://github.com/rabrux) and is sponsored by [WA Technologies](http://wat.mx)
