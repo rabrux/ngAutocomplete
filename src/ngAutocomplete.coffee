@@ -1,4 +1,4 @@
-angular.module('ngAutocomplete', [])
+angular.module('ngSimpleAutocomplete', [])
 	.directive 'autoComplete', [
 		'$document'
 		'$filter'
